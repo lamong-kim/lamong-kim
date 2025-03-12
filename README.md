@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+제 이름은 김민재입니다. 현재 대구과학고등학교 1학년 3반 소속입니다.
 <!--
 **lamong-kim/lamong-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
